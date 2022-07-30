@@ -1,0 +1,2 @@
+FLASK_APP=build.py
+FLASK_ENV=development
